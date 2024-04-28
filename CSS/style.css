@@ -63,7 +63,7 @@ header {
 }
 .big-title {
   width: 100%;
-  color: #373737;
+  color: #fff;
   font-size: 40px;
   font-family: "Abril Fatface", cursive;
   font-weight: 100;
@@ -567,7 +567,7 @@ img.icon-mkpictures{
   }
 
   .big-title {
-      font-size: 30px;
+      font-size: 35px;
       line-height: 50px;
   }
 
