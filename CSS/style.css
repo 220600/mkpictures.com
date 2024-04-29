@@ -587,6 +587,10 @@ img.icon-mkpictures{
   footer {
       justify-content: center;
   }
+  section#home{
+    justify-content: center;
+    align-items: center;
+  }
   .diapo{
     height: 450px;
     width: 350px;
